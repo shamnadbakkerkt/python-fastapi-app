@@ -4,7 +4,7 @@ pipeline {
   environment {
     DOCKER_IMAGE  = "shamnaddockerhub/fastapi"
     GIT_REPO_NAME = "python-fastapi-app"
-    GIT_USER_NAME = "shamnadbakkerkt'
+    GIT_USER_NAME = "shamnadbakkerkt"
   }
 
   options {
